@@ -1,8 +1,9 @@
 # Mano Basic Computer
+## Project Overview
 This project implements a basic computer system inspired by M. Morris Mano's "Digital Design" textbook. It simulates a basic computer architecture that focuses on a simplified model of a CPU, memory, and input/output (I/O) devices.
 The computer features a simple instruction set architecture (ISA), a basic set of registers, and support for fundamental operations such as addition, subtraction, and branching. It is a learning tool for understanding computer architecture and digital logic design.
-This project was designed by a team of 4 students called (creative team ) as a part of our Microcontrollers Architecture Course.
-Project Overview
+## This project was designed by a team of 4 students called (creative team ) as a part of our Microcontrollers Architecture Course.
+ 
  ## System Components
 
     1- CPU (Central Processing Unit): The brain of the computer. The CPU fetches, decodes, and executes instructions from memory.
