@@ -2,7 +2,7 @@
 ## Project Overview
 This project implements a basic computer system inspired by M. Morris Mano's "Digital Design" textbook. It simulates a basic computer architecture that focuses on a simplified model of a CPU, memory, and input/output (I/O) devices.
 The computer features a simple instruction set architecture (ISA), a basic set of registers, and support for fundamental operations such as addition, subtraction, and branching. It is a learning tool for understanding computer architecture and digital logic design.
-## This project was designed by a team of 4 students called (creative team ) as a part of our Microcontrollers Architecture Course.
+## This project was designed by a team of 4 students called (creative team ) as a part of our Microprocessors 2 Course.
  
  ## System Components
 
@@ -50,4 +50,4 @@ The basic computer uses a simple instruction set consisting of:
     1- INC (7020H) : Increament AC
     2- CMA (7200H ) : complement AC
     3- CLA (7800H) : Clear AC
-    4-LDA (Load Accumulator): Loads the content of a memory address into the accumulator.
+    4-LDA (Load Accumulator)  (2XXXH), (XXX): 12-bit Memory addressing for  the memory location that will load its content into AC  
